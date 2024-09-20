@@ -1,7 +1,7 @@
 ## Boas vindas ao meu perfil 🤰
 
 meu nome é gustavo 
-
+- estou estudando no [Alura](https://www.alura.com.br)
 - Estou no alura
 - Estou me desenvolvendo na linguagem javascript
 - utilizo esse espaço para minha organização e compartilhamentos dos meus projetos
